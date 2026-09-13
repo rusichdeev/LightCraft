@@ -1,0 +1,12 @@
+{
+  "events": [
+    {
+      "id": "build_battle",
+      "name": "Битва строителей",
+      "description": "Постройте показанную конструкцию точь-в-точь быстрее, чем закончится время раунда.",
+      "icon_url": "https://raw.githubusercontent.com/rusichdeev/LightCraft/main/events/build_battle/icon.png",
+      "min_version": "v0.6beta",
+      "blueprints_url": "https://raw.githubusercontent.com/rusichdeev/LightCraft/main/events/build_battle/blueprints.json"
+    }
+  ]
+}
