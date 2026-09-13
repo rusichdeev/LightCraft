@@ -6,7 +6,7 @@
       "description": "Постройте показанную конструкцию точь-в-точь быстрее, чем закончится время раунда.",
       "icon_url": "https://raw.githubusercontent.com/rusichdeev/LightCraft/main/events/build_battle/icon.png",
       "min_version": "v0.6beta",
-      "blueprints_url": "https://raw.githubusercontent.com/rusichdeev/LightCraft/main/events/build_battle/blueprints.json"
+      "blueprints_url": "https://github.com/rusichdeev/LightCraft/blob/main/events%2Fbuild_battle%2Fblueprints.json"
     }
   ]
 }
